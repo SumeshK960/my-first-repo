@@ -1,2 +1,2 @@
-# my-first-repo
-my first repo
+# My First Repo
+Learning GitHub step by step
