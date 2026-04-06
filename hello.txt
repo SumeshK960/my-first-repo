@@ -1,1 +1,2 @@
-Remove hello.txt
+hello base
+day 1
