@@ -1,2 +1,2 @@
 # My First Repo
-Learning GitHub step by step
+Learning GitHub commit step by step and complete guild task.
